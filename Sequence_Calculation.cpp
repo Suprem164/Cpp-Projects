@@ -20,7 +20,7 @@ int main()
         cout << "\nWhich calculation you want to perform of Arithmetic Progession: ";
         cin >> input1;
 
-        switch (input1)
+        switch (input1) //Creating a switch statement.
         {
         case 1:
             if (input1 == 1)
