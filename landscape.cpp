@@ -1,3 +1,5 @@
+//This is a SFML cpp program to draw a night landscape.
+
 #include <SFML/Window.hpp>
 #include <SFML/Graphics.hpp>
 
